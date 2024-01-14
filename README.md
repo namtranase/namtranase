@@ -6,7 +6,7 @@ I'm an enthusiastic AI learner
 
 ## My Projects
 ### Open Source Contributions
-- **temi:** A terminal assistant for developers. [Find out more](https://github.com/namtranase/terminalmind)
+- **temi:** A terminal assistant for developers. [Find out more](https://github.com/namtranase/terminalmind), or [introduction website](https://namtranase.github.io/terminalmind/)
 - **llama.cpp:** Contributing to the open-source community. [Check my contributions](https://github.com/ggerganov/llama.cpp/pull/4593)
 - 👯 I’m looking to collaborate on other open-source projects!
 
