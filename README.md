@@ -6,6 +6,7 @@ I'm an enthusiastic AI learner
 
 ## My Projects
 ### Open Source Contributions
+- **gemma-cpp-python:** A Python wrapper for [gemma.cpp](https://github.com/google/gemma.cpp) repo from google
 - **temi:** A terminal assistant for developers. [Find out more](https://github.com/namtranase/terminalmind), or [introduction website](https://namtranase.github.io/terminalmind/)
 - **llama.cpp:** Contributing to the open-source community. [Check my contributions](https://github.com/ggerganov/llama.cpp/pull/4593)
 - 👯 I’m looking to collaborate on other open-source projects!
